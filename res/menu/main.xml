@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mordernartui.MainActivity"
+     >
+
+    <item
+        android:id="@+id/more_information"
+        android:orderInCategory="100"
+        android:title="@string/more_information"
+   		android:showAsAction="never"
+        />
+
+</menu>
